@@ -1,6 +1,6 @@
 # dlopener
 
-## A tool to test if a shared library is dlopen'ble (you should use this to check if all needed dependency libs are there)
+- A tool to test if a shared library is dlopen'ble (you should use this to check if all needed dependency libs are there)
 
 # DO NOT SHIP IN A PRODUCTION BUILD
 
